@@ -99,7 +99,6 @@
   grid-template-columns: 100%;
   grid-gap: 14px 14px;
   min-height: 101px;
-  grid-auto-columns: 100%;
 }
 
 .u-section-3 .u-list-item-1 {
