@@ -1,6 +1,5 @@
 .u-section-1 {
   background-image: linear-gradient(0deg, rgba(4,130,67,0.25), rgba(4,130,67,0.25)), url("images/hero-bg2.webp");
-  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -15,6 +14,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 889px;
   }
@@ -31,10 +34,6 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-1 {
-    background-position: 50% 50%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 981px;
   }
@@ -54,7 +53,6 @@
   }
 }.u-section-2 {
   background-image: linear-gradient(0deg, rgba(4,130,67,0.9), rgba(4,130,67,0.9)), url("images/8e21b78bcba964a0de1029217a81e2261f41f718836b3f824673504d0566ce7a361b62a81874d1a89133ed21e84a1aff3b85e4cd7893175905e918_1280.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -66,7 +64,7 @@
   margin: 30px 0;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1199px) {
   .u-section-2 {
     background-position: 50% 50%;
   }
@@ -82,7 +80,6 @@
   }
 }.u-section-3 {
   background-image: linear-gradient(0deg, rgba(4,130,67,0.7), rgba(4,130,67,0.7)), url("images/8a452cac9222f817a94211f044cb2321f62747a254a63ec77d80df8ebf999189b67d6e69a911a533fadcbc0d8a8e5442eaf5938161d159e158e1b7_1280.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -273,6 +270,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-3 {
+    background-position: 50% 50%;
+  }
+
   .u-section-3 .u-sheet-1 {
     min-height: 783px;
   }
@@ -297,10 +298,6 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-3 {
-    background-position: 50% 50%;
-  }
-
   .u-section-3 .u-sheet-1 {
     min-height: 450px;
   }
@@ -384,7 +381,6 @@
   }
 }.u-section-4 {
   background-image: linear-gradient(0deg, rgba(4,130,67,0.55), rgba(4,130,67,0.55)), url("images/03e5ad65ffa55a0b31b3fdeb188c4a0a9983b3dbcd267082c61bc7ae9be360132b16265e54e96203e18b1e7244f88cf9d8a3eb62753ccbc340aa0d_1280.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-4 .u-sheet-1 {
@@ -541,6 +537,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-4 {
+    background-position: 50% 50%;
+  }
+
   .u-section-4 .u-sheet-1 {
     min-height: 665px;
   }
@@ -654,10 +654,6 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-4 {
-    background-position: 50% 50%;
-  }
-
   .u-section-4 .u-sheet-1 {
     min-height: 529px;
   }

@@ -34699,7 +34699,7 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 991px) {
   .u-header .u-image-1 {
     margin-left: 92px;
-    width: auto;
+    width: 537px;
   }
 
   .u-header .u-menu-1 {
@@ -34709,24 +34709,24 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-2 {
-    margin-top: -36px;
-    margin-right: 263px;
-    margin-left: 240px;
+    width: 217px;
+    margin-top: -57px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 @media (max-width: 767px) {
   .u-header .u-section-row-1 {
-    min-height: 243px;
+    min-height: 242px;
   }
 
   .u-header .u-layout-wrap-1 {
-    margin-top: 1px;
     margin-bottom: 0;
     min-height: 405px;
   }
 
   .u-header .u-layout-cell-1 {
-    min-height: 63px;
+    min-height: 66px;
   }
 
   .u-header .u-container-layout-1 {
@@ -34754,7 +34754,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-layout-cell-3 {
-    min-height: 56px;
+    min-height: 59px;
   }
 
   .u-header .u-container-layout-3 {
@@ -34762,7 +34762,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-layout-cell-4 {
-    min-height: 42px;
+    min-height: 62px;
   }
 
   .u-header .u-container-layout-4 {
@@ -34793,17 +34793,21 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-section-row-1 {
-    min-height: 222px;
+    min-height: 202px;
   }
 
   .u-header .u-layout-wrap-1 {
-    margin-top: 0;
     margin-bottom: 0;
     min-height: 230px;
   }
 
   .u-header .u-layout-cell-1 {
-    min-height: 100px;
+    min-height: 19px;
+  }
+
+  .u-header .u-container-layout-1 {
+    padding-top: 5px;
+    padding-bottom: 5px;
   }
 
   .u-header .u-btn-1 {
@@ -34811,11 +34815,16 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-layout-cell-2 {
-    min-height: 100px;
+    min-height: 44px;
+  }
+
+  .u-header .u-container-layout-2 {
+    padding-top: 5px;
+    padding-bottom: 0;
   }
 
   .u-header .u-layout-cell-3 {
-    min-height: 100px;
+    min-height: 15px;
   }
 
   .u-header .u-container-layout-3 {
@@ -34824,16 +34833,17 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-layout-cell-4 {
-    min-height: 26px;
+    min-height: 39px;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 223px;
+    min-height: 222px;
   }
 
   .u-header .u-image-1 {
     width: 340px;
+    margin-top: 0;
     margin-left: 0;
     margin-right: 0;
   }
